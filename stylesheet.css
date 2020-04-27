@@ -1,0 +1,415 @@
+/*######### HOMEPAGE BODY CSS ############*/
+
+
+#h1main
+{
+	color: #E5e5e5;
+	font-family: 'Rock Salt', cursive;
+	font-size: 50px;
+	//background-color: red;
+	margin-left: 10px;
+	text-align: center;
+	margin-bottom: 0px;
+	margin-top: 20px;
+}
+
+#portfolio
+{
+	font-family: 'Lakki Reddy', cursive;
+	color: grey;
+	font-size: 55px
+}
+
+#bmain 
+{
+	background-image: url("home.jpg");
+
+}
+
+
+
+#pfp
+{
+	border-style: groove;
+ border-width: 5px;
+ border-color: white;
+ padding: 0px;
+ border-radius: 2500px;
+ 	margin-left: 10px;
+
+
+}
+
+#h2main
+{
+	color: #F1faee;
+	margin-left: 10px;
+	font-size: 40px;
+}
+p
+{
+	font-family: 'Permanent Marker', cursive;
+	color: grey;
+	font-size: 20px;
+	margin-left: 10px;
+
+}
+/*######### HOMEPAGE BODY CSS END ############*/
+
+
+
+/*######### BUTTONS SECTION HOMEPAGE ############*/
+.buttons
+{
+	//background-color: green;
+	height: 35px;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: 'Playball', cursive;
+
+}
+
+.buttons ul
+{
+	list-style-type: none;
+	text-align: center;
+	text-decoration: none;
+	padding: 0px;
+	margin: 0px;
+
+}
+
+.buttons ul li
+{
+	display: inline;
+	padding: 15px;
+	vertical-align: middle;
+}
+
+.buttons ul li a
+{
+	text-decoration: none;
+	padding: 8px 8px 8px 8px;
+	vertical-align: middle;
+	color: #cad2c5;
+
+}
+
+/*######### BUTTONS SECTION HOMEPAGE END ############*/
+
+
+/*######### HOVER PROPERTIES ############*/
+
+.buttons a:hover
+{
+	color: black;
+	background-color: white;
+	border-radius: 5px;
+}
+
+
+/*######### HOVER PROPERTIES END ############*/
+
+/*#############################################
+CONTACT ME PAGE
+###############################################*/
+
+
+
+#bcontact
+{
+	background-color: black;
+	background-image: url("contacts.jpg");
+}
+
+/*######### BUTTONS SECTION CONTACT ############*/
+
+
+
+
+
+.buttonscontact
+{
+	height: 35px;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: 'Playball', cursive;
+
+}
+
+.buttonscontact ul
+{
+	list-style-type: none;
+	text-align: center;
+	text-decoration: none;
+	padding: 0px;
+	margin: 0px;
+	margin-top: 50px;
+}
+
+.buttonscontact ul li
+{
+	display: inline;
+	padding: 15px;
+	vertical-align: middle;
+}
+
+.buttonscontact ul li a
+{
+	text-decoration: none;
+	padding: 8px 8px 8px 8px;
+	vertical-align: middle;
+	color: #8d99ae;
+
+}
+/*######### BUTTONS SECTION CONTACT END ############*/
+
+
+/*######### HOVER SECTION CONTACT ############*/
+
+.buttonscontact a:hover
+{
+	color: black;
+	background-color: white;
+	border-radius: 5px;
+}
+
+.logos a:hover
+{
+	opacity: 0.7;
+}
+
+/*######### HOVER SECTION CONTACT END ############*/
+
+/*########## LOGOS ########## */
+.logos ul
+{	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+
+.logos ul li
+{
+	display: inline;
+	padding: 15px;
+	vertical-align: middle;
+}
+
+.logos ul li a
+{
+	text-decoration: none;
+	padding: 8px 8px 8px 8px;
+	vertical-align: middle;
+	//color: #8d99ae;
+}
+
+/*########## LOGOS END ########## */
+
+
+/*#############################################
+CONTACT ME PAGE END
+###############################################*/
+
+
+
+
+
+/*#############################################
+ABOUT ME PAGE
+###############################################*/
+
+#babout
+{
+	background-color: black;
+	background-image: url("about2.jpg");
+
+}
+
+#h1about
+{
+	color: #4f5d75;
+	font-family: 'Cinzel Decorative', cursive;	
+	font-size: 50px;
+	margin-left: 10px;
+	text-align: center;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+#intlist
+{
+	height: 35px;
+	font-size: 25px;
+	font-weight: bold;
+	//font-family: 'Playball', cursive;
+	font-family: 'Fontdiner Swanky', cursive;
+
+}
+
+#intlist ul
+{
+	list-style-type: none;
+	text-align: center;
+	text-decoration: none;
+	padding: 0px;
+	margin: 0px;
+
+}
+
+#intlist ul li
+{
+	padding: 15px;
+	vertical-align: middle;
+	color: #252422;
+}
+
+
+
+
+/*############### Button Section##############*/
+
+
+.buttonsabout
+{
+	height: 35px;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: 'Fredericka the Great', cursive;
+
+}
+
+.buttonsabout ul
+{
+	list-style-type: none;
+	text-align: center;
+	text-decoration: none;
+	padding: 0px;
+	margin: 0px;
+	margin-top: 50px;
+
+}
+
+.buttonsabout ul li
+{
+	display: inline;
+	padding: 15px;
+	vertical-align: middle;
+}
+
+.buttonsabout ul li a
+{
+	text-decoration: none;
+	padding: 8px 8px 8px 8px;
+	vertical-align: middle;
+	color: #333533;
+
+
+}
+
+.buttonsabout a:hover
+{
+	color: black;
+	background-color: white;
+	border-radius: 5px;
+}
+
+
+
+
+
+/*############### Button Section END##########*/
+
+
+
+/*#############################################
+ABOUT ME PAGE END
+###############################################*/
+
+
+
+
+
+
+/*#############################################
+ACHIEVEMENT PAGE
+###############################################*/
+
+#bach
+{
+	background-image: url(chess1.jpg);
+}
+
+#achpara
+{
+	text-align: center;
+	color: #253237;
+	font-family: 'Sacramento', cursive;
+	font-size: 30px;
+}
+
+#h1ach
+{
+	text-align: center;
+	font-family: 'Fondamento', cursive;
+}
+
+
+
+
+
+
+/*############### Button Section ##########*/
+.buttonsach
+{
+	height: 35px;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: 'Fredericka the Great', cursive;
+
+}
+
+.buttonsach ul
+{
+	list-style-type: none;
+	text-align: center;
+	text-decoration: none;
+	padding: 0px;
+	margin: 0px;
+	margin-top: 50px;
+
+}
+
+.buttonsach ul li
+{
+	display: inline;
+	padding: 15px;
+	vertical-align: middle;
+}
+
+.buttonsach ul li a
+{
+	text-decoration: none;
+	padding: 8px 8px 8px 8px;
+	vertical-align: middle;
+	color: #333533;
+
+
+}
+
+.buttonsach a:hover
+{
+	color: black;
+	background-color: white;
+	border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*############### Button Section END##########*/
